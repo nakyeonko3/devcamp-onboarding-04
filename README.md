@@ -1,4 +1,4 @@
-# OnRight 직무 구직 플랫폼
+# OnRight
 
 ![](https://i.imgur.com/weP0NGA.png)
 
