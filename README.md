@@ -1,5 +1,6 @@
 # devcamp-onboarding-04
 온보딩 프로젝트
+
 ![발표 장표_페이지_1](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/8b28e214-77a8-457e-8712-face4d3f9812)
 
 ![발표 장표_페이지_2](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/b11d9f83-0b3b-4528-b902-7b1b755c8c38)
