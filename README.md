@@ -9,7 +9,7 @@
 
 ## 설치
 
-급여 및 업무 관리 플랫폼은 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Nodejs 기반으로 구성되어있습니다.<br>
+직무 적성 온라인 채용 플랫폼은 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Bunjs 기반으로 구성되어있습니다.<br>
 프로젝트 저장소를 다음 설명에 따라 개발자 컴퓨터에 복사하고 설치 명령을 입력하여 설치를 할 수 있습니다.
 
 ```bash
@@ -50,4 +50,12 @@ npm run build:production
 - [프로젝트 정의서](https://github.com/nakyeonko3/devcamp-onboarding-04/blob/main/design/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%A0%95%EC%9D%98%EC%84%9C.md)
 - [기능 정의서](https://github.com/nakyeonko3/devcamp-onboarding-04/blob/main/design/%EA%B8%B0%EB%8A%A5%20%EC%A0%95%EC%9D%98%EC%84%9C.md)
 
+## 기여자 
 
+| 이름 | 깃허브 아이디 |
+| --- | --- |
+| 김도형 | dhkim511 |
+| 고낙연 | nakyeonko3 |
+| 백은섭 | bes9507 |
+| 송중형 | codeJunH |
+| 양해석 | HSjjs98 |
