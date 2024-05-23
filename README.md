@@ -7,6 +7,22 @@
 직무 적성 온라인 채용 플랫폼은 구직자와 기업 모두에게 효율적이고 편리한 채용 프로세스를 제공합니다.</br>
 직무 추천 프로그램, 구직자 자소서 및 포트폴리오 등록 & 열람, 기업 분석 등의 서비스를 제공합니다.</br>
 
+## 발표 장표 
+
+![발표 장표_페이지_1](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/34654763-5fb5-4a23-85dc-ee3a24cadc75)
+
+![발표 장표_페이지_2](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/4202b0df-7257-49df-953b-a2ef4e6a89b3)
+
+![발표 장표_페이지_3](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/7eea5d5b-9913-442e-925c-110cb652d0e0)
+
+![발표 장표_페이지_4](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/25b5585c-7671-47de-9549-c5fe20649c2a)
+
+![발표 장표_페이지_5](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/1f70761a-c28f-4386-b810-5f8e1a169509)
+
+![발표 장표_페이지_6](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/dcbceabf-f388-44ad-9524-12fedf64db48)
+
+![발표 장표_페이지_7](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/b627446e-400b-461e-9af7-0633409146c3)
+
 ## 설치
 
 직무 적성 온라인 채용 플랫폼은 서버와 클라이언트 시스템으로 구성되며 Javascript 와 Bunjs 기반으로 구성되어있습니다.<br>
