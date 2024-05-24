@@ -45,5 +45,5 @@ OnRight는 구직자와 기업 모두에게 효율적이고 편리한 채용 프
 | 김도형 | dhkim511 |
 | 고낙연 | nakyeonko3 |
 | 백은섭 | bes9507 |
-| 송중형 | codeJunH |
+| 송준형 | codeJunH |
 | 양해석 | HSjjs98 |
