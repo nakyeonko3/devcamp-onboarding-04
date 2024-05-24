@@ -21,6 +21,12 @@
 
 ![발표 장표_페이지_6](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/dcbceabf-f388-44ad-9524-12fedf64db48)
 
+## 프로젝트 느꼈던 점
+
+![느꼈던점](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/c8d44787-78a1-4f26-ae96-5c7120cd2bc9)
+
+## 발표 마무리 
+
 ![발표 장표_페이지_7](https://github.com/nakyeonko3/devcamp-onboarding-04/assets/146011623/b627446e-400b-461e-9af7-0633409146c3)
 
 ## 설치
